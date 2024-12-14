@@ -1,2 +1,1 @@
-Personal Minecraft Blog 
-Mods / Plugin / Server Deployment 
+# Random Code Repo
